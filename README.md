@@ -44,11 +44,15 @@
 ## 🚀 Featured Projects
 
 ### 🌐 Project One
-- Short description of your project
+-DPI Engine — Deep Packet Inspection System
+Engineered a multi-threaded Deep Packet Inspection engine in C++17 capable of parsing raw PCAP captures,
+classifying application traffic (YouTube, Facebook, TikTok, etc.), and enforcing blocking rules across TCP/UDP flows
 - Tech Stack: React, Node.js, MongoDB
 
 ### 🤖 AI Project
-- Short description of your AI/ML project
+- FoodSight AI — AI-Powered Food Health Analyzer
+- • Launched full-stack nutrition intelligence platform in under 8 weeks, achieving 95% satisfaction score via AI-driven
+health scoring, personalized dietary recommendations, and Supabase Edge Functions
 - Tech Stack: Python, TensorFlow
 
 ---

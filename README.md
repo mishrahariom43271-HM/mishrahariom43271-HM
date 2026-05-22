@@ -13,7 +13,7 @@
 - 🌱 Currently learning **MERN Stack & AI**
 - 💻 Working on **Web Development Projects**
 - 🚀 Interested in **Open Source Contributions**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **mishrahariom43271@gmail.com**
 - ⚡ Fun fact: **I love coding and solving problems**
 
 ---
@@ -77,11 +77,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
-</a>
-
-<a href="mailto:your.email@example.com">
+<a href="mailto:mishrahariom43271@gmail.com">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="40" width="40" />
 </a>
 </p>

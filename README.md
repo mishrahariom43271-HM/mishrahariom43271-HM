@@ -1,4 +1,4 @@
-# Hi 👋, I'm Your Hariom
+# Hi 👋, I'm Your Hariom Mishra
 
 ### 🚀 Full Stack Developer | Open Source Enthusiast | Tech Learner
 
@@ -50,10 +50,6 @@
 ### 🤖 AI Project
 - Short description of your AI/ML project
 - Tech Stack: Python, TensorFlow
-
-### 📱 Full Stack App
-- Short description of your app
-- Tech Stack: MERN Stack
 
 ---
 

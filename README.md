@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi 👋, I'm Your Hariom
 
-<!--
-**mishrahariom43271-HM/mishrahariom43271-HM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | Open Source Enthusiast | Tech Learner
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mishrahariom43271&label=Profile%20views&color=0e75b6&style=flat" alt="mishrahariom43271" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me
+
+- 🌱 Currently learning **MERN Stack & AI**
+- 💻 Working on **Web Development Projects**
+- 🚀 Interested in **Open Source Contributions**
+- 📫 Reach me at **your.email@example.com**
+- ⚡ Fun fact: **I love coding and solving problems**
+
+---
+
+## 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/socketdotio.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+</p>
+
+
+---
+
+
+
+## 🚀 Featured Projects
+
+### 🌐 Project One
+- Short description of your project
+- Tech Stack: React, Node.js, MongoDB
+
+### 🤖 AI Project
+- Short description of your AI/ML project
+- Tech Stack: Python, TensorFlow
+
+### 📱 Full Stack App
+- Short description of your app
+- Tech Stack: MERN Stack
+
+---
+
+## 🏆 Achievements
+
+- ✅ Built multiple full stack projects
+- ✅ Active GitHub contributor
+- ✅ Learning modern technologies
+- ✅ Competitive programming enthusiast
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>

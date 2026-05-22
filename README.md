@@ -80,6 +80,10 @@
 <a href="https://github.com/YOUR_USERNAME" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
 </a>
+
+<a href="mailto:your.email@example.com">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="40" width="40" />
+</a>
 </p>
 
 ---
